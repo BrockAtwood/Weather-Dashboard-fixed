@@ -2,6 +2,8 @@
 
 Weather Dashboard API Practice (Homework #6)
 
+- Old Repo with 25 commits...had to create a new repo and clone it over
+
 Screenshot:
 ![Screenshot](./images/screenshot.png)
 
