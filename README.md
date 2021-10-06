@@ -4,6 +4,8 @@ Weather Dashboard API Practice (Homework #6)
 
 - Old Repo with 25 commits...had to create a new repo and clone it over
 
+* https://github.com/BrockAtwood/weather-dashboard
+
 Screenshot:
 ![Screenshot](./images/screenshot.png)
 
